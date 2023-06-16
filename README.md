@@ -31,7 +31,7 @@ Swalokal has the key feature of being able to detect products through the device
 
 <!-- Dataset -->
 ## Dataset :card_index_dividers:
-<p>Below is the application link that you can install on your android device :</p>
+<p>Below is the dataset link that you can download :</p>
 <a href="https://drive.google.com/file/d/10WXi-JayvEFjkd4yPevxEA1lvQ7qpXDr/view?usp=sharing">Capstone Dataset</a>
 
 <!-- Contributor -->
